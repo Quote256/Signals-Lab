@@ -1,2 +1,2 @@
-timer: timer.c
-	gcc timer.c -o timer 
+signal: signal.c
+	gcc signal.c -o sigTest 
